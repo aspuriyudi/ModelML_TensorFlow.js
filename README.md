@@ -14,7 +14,7 @@
 - `images` berisi beberapa gambar seperti plot evaluasi model yang telah dibuat dan tampilan awal web.
 - `styles` berisi `style.css` dan beberapa gambar untuk memperindah tampilan web.
 
-![Image alt text](ModelML_TensorFlow.js/images/hasil.png)
+![hasil](https://user-images.githubusercontent.com/83592946/205070439-df9016d3-825f-4988-8c21-1f01a0908677.png))
 
 
 sumber
